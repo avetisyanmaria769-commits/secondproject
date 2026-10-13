@@ -21,7 +21,7 @@ function App() {
         title: text.trim(),
         done: false,
       },
-    ]);
+    ])
 
     setText("");
   };
