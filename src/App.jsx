@@ -4,7 +4,7 @@ import "./App.css";
 
 function App() {
   const [tasks, setTasks] = useState([
-    { id: 1, title: "React սովորել", done: true },
+    { id: 1, title: "React սովորել",  done: true },
     { id: 2, title: "Կարդալ դասը", done: false },
     { id: 3, title: "Կոդ գրել", done: false },
   ]);
